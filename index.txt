@@ -1,6 +1,6 @@
 IMPO=The Memory Game Mode is Now Available & Find-Flix shutting down., Starting July 13, the memory game mode will only be available as an LTM for weekends only. also since Find-Flix (my other website) is shutting down - use Code 'FINDFLIX' by March 1th 2027 to get 26 FREE Fest-Coins.
 -
-MEMORY=YES
+MEMORY=NO
 -
 CODES=DEMOGIFT-25-31.12.2026, FINDFLIX-26-1.3.2027
 -
