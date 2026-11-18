@@ -1,4 +1,5 @@
-IMPO=Last.fm Integration will be discontinued soon,Hi everyone! Due to a recent policy change by Last.fm, last.fm API access requires a paid subscription (Last.fm Pro) for developers. since this is a non-commercial project, we have made the decision to remove the Last.fm Integration feature soon. the rest of the game will continue to work normally, and this specific feature will be removed in the upcoming update. Thank you for your understanding and continued support!
+IMPO=Important Update Regarding Last.fm Integration,Hi everyone! Due to a recent policy change by Last.fm, accessing their API now requires a paid subscription (Last.fm Pro). Because this is a non-commercial passion project, we will be removing the Last.fm Integration feature in our upcoming update.
+Everything else in the game will continue to work normally. Thank you so much for your understanding and continued support!
 -
 MEMORY=NO
 -
